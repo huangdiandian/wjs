@@ -1,15 +1,13 @@
 /*
  * @Author: iceStone
  * @Date:   2015-12-05 21:48:05
- * @Last Modified by:   iceStone
- * @Last Modified time: 2015-12-11 17:41:49
+ * @Last Modified by:   admin
+ * @Last Modified time: 2016-01-27 23:10:38
  */
 
 'use strict';
 
 $(function() {
-
-
   function resize() {
     // 屏幕宽度
     var windowWidth = $(window).width();
